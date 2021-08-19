@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CursoAPI</name>
+    </assembly>
+    <members>
+        <member name="T:CursoAPI.Program">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:CursoAPI.Program.Main(System.String[])">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:CursoAPI.Program.CreateHostBuilder(System.String[])">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="T:CursoAPI.Startup">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:CursoAPI.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:CursoAPI.Startup.Configuration">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:CursoAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:CursoAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+    </members>
+</doc>
