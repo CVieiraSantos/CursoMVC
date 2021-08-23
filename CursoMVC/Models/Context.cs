@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 
 namespace CursoMVC.Models
 {
+    
     public class Context : DbContext // Essa classe herda de uma interface do Entity framework chamada DbContext
     {
         private Action<SqlServerDbContextOptionsBuilder> connectionString;

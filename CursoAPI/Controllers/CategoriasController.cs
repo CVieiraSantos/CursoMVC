@@ -11,6 +11,7 @@ namespace CursoAPI.Controllers
 {
     [Route(template: "api/[controller]")]
     [ApiController]
+
     public class CategoriasController : ControllerBase
     {
         private readonly Context _context;
